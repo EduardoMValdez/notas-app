@@ -1,1 +1,1 @@
-class LoginPage {}
+class LoginScreen {}
